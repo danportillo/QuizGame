@@ -127,29 +127,3 @@ document.getElementById("qnumber").innerHTML = "Question "+qnum;
 var qnum = 0;
 var cntr = 0;
 game(cntr, qnum);
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
